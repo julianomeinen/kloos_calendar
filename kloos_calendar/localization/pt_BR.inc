@@ -15,5 +15,13 @@
 
 $labels = [];
 $labels['button_label'] = 'Calendário';
+$labels['page_title'] = 'Calendário';
+$labels['weekday_1'] = 'Domingo';
+$labels['weekday_2'] = 'Segunda';
+$labels['weekday_3'] = 'Terça';
+$labels['weekday_4'] = 'Quarta';
+$labels['weekday_5'] = 'Quinta';
+$labels['weekday_6'] = 'Sexta';
+$labels['weekday_7'] = 'Sábado';
 
 $messages = [];

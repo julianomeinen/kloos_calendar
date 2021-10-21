@@ -15,5 +15,13 @@
 
 $labels = [];
 $labels['button_label'] = 'Calendar';
+$labels['page_title'] = 'Calendar';
+$labels['weekday_1'] = 'Sunday';
+$labels['weekday_2'] = 'Monday';
+$labels['weekday_3'] = 'Tuesday';
+$labels['weekday_4'] = 'Wednesday';
+$labels['weekday_5'] = 'Thursday';
+$labels['weekday_6'] = 'Friday';
+$labels['weekday_7'] = 'Saturday';
 
 $messages = [];
