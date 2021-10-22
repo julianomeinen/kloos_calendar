@@ -23,5 +23,7 @@ $labels['weekday_4'] = 'Wednesday';
 $labels['weekday_5'] = 'Thursday';
 $labels['weekday_6'] = 'Friday';
 $labels['weekday_7'] = 'Saturday';
+$labels['date_format'] = 'Y-m-d';
+$labels['welcome_message'] = 'Hi <strong>%s</strong>, today is %s, %s.';
 
 $messages = [];

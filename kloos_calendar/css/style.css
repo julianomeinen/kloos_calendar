@@ -1,3 +1,11 @@
-.menu a.button_kloos_calendar:before{
+.menu a.button_kloos_calendar:before {
     content: "\f073"
+}
+
+.kloos_center {
+    text-align: center;
+}
+
+.kloos_welcome_message {
+    padding: 10px 10px 10px;
 }
